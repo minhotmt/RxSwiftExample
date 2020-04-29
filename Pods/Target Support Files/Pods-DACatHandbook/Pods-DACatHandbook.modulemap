@@ -1,0 +1,6 @@
+framework module Pods_DACatHandbook {
+  umbrella header "Pods-DACatHandbook-umbrella.h"
+
+  export *
+  module * { export * }
+}
